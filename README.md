@@ -8,8 +8,8 @@
 :wave: Hi there, I'm Mohammad Mahmud Hasan.😀 I'm passionate about DevOps and love to network with other Engineers & Developers.
 I've profound knowledge in Django Framework, AWS Solution Architech & AWS DevOps. 
 I completed B.Sc Engineering in Computer Science from 🇧🇩. 
-I'm interested in doing Indoor & Outdoor Sports, Testing new Food & Learning New Tools & Technologies. 
-I love to work with new technologies and playing with Cloud & Automation Tools.🤖
+I'm also and athlete, having a record in Guinness Book of World!
+I love to learn & work with new technologies and playing with Cloud & Automation Tools.🤖
 
 ## My Stack
 
