@@ -5,10 +5,10 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-mahmud-hasan/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmud__hasan/)
 
-:wave: Hi there, My name is Mohammad Mahmud Hasan.😀 I'm a DevOps Engineer @AgeTune.
+:wave: Hi there, I'm Mohammad Mahmud Hasan.😀 I'm passionate about DevOps and love to network with other Engineers & Developers.
 I've profound knowledge in Django Framework, AWS Solution Architech & AWS DevOps. 
 I completed B.Sc Engineering in Computer Science from 🇧🇩. 
-I'm interested in doing Indoor & Outdoor Sports, Eating & Learning New Tools & Technologies. 
+I'm interested in doing Indoor & Outdoor Sports, Testing new Food & Learning New Tools & Technologies. 
 I love to work with new technologies and playing with Cloud & Automation Tools.🤖
 
 ## My Stack
