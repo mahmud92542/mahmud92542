@@ -9,7 +9,7 @@
 I've profound knowledge in Django Framework, AWS Solution Architech & AWS DevOps. 
 I completed B.Sc Engineering in Computer Science from 🇧🇩. 
 I'm interested in doing Indoor & Outdoor Sports, Eating & Learning New Tools & Technologies. 
-I love to work with new technologies and playing with Cloud & Automation.🤖
+I love to work with new technologies and playing with Cloud & Automation Tools.🤖
 
 ## My Stack
 
