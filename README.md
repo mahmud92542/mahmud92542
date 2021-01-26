@@ -21,11 +21,11 @@ API: Django REST Framework
 <br>
 Databases: AWS RDS
 <br>
-Experimenting: Django, AWS, DevOps
+Experimenting: Django, AWS, DevOps, GKE, AKS, EKS
 <br>
 Deployment: Linux Server, Docker, k8s
 <br>
-Automation Tools: CI/CD, AWS Developer Tools, Jenkins, Ansible, Terraform
+Automation Tools: CI/CD, AWS Developer Tools, Jenkins, Ansible, Terraform, Azure DevOps
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mahmud92542&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud92542&layout=compact)
